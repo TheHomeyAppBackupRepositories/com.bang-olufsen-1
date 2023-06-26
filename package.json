@@ -1,0 +1,30 @@
+{
+  "name": "com.bang-olufsen",
+  "version": "1.0.0",
+  "description": "Connects Bang & Olufsen devices with Homey",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "dependencies": {
+    "node-fetch": "^2.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "eslint-config-athom": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athombv/com.bang-olufsen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/athombv/com.bang-olufsen/issues"
+  },
+  "homepage": "https://github.com/athombv/com.bang-olufsen#readme"
+}
